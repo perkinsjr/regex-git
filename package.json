@@ -1,0 +1,30 @@
+{
+  "name": "regex-git",
+  "version": "1.0.0",
+  "description": "Check to see if a git URL is valid",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perkinsjr/regex-git.git"
+  },
+  "keywords": [
+    "regex",
+    "git",
+    "regex-git",
+    "git-url",
+    "is-git-url",
+    "ssh-git"
+  ],
+  "author": "James Perkins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perkinsjr/regex-git/issues"
+  },
+  "homepage": "https://github.com/perkinsjr/regex-git#readme",
+  "devDependencies": {
+    "ava": "^1.4.1"
+  }
+}
